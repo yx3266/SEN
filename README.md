@@ -25,7 +25,7 @@ To detect out-of-context (OOC) mis-/disinformation, we propose a unified framewo
 
 ### 1. Organize the code and data
 
-This repo and code are built based on the top of [CCN](https://github.com/S-Abdelnabi/OoC-multi-modal-fc?tab=readme-ov-file). So to reproduce our results, first organize the code and all the datasets (VisualNews, NewsCLIPpings and the evidence) according to CCN's requirements, and extract all necessary features.
+This repo and code are built based on the top of [CCN](https://github.com/S-Abdelnabi/OoC-multi-modal-fc?tab=readme-ov-file). So to reproduce our results, first organize the code and all the datasets ([VisualNews](https://github.com/FuxiaoLiu/VisualNews-Repository), [NewsCLIPpings](https://github.com/g-luo/news_clippings) and the [evidence](https://github.com/S-Abdelnabi/OoC-multi-modal-fc?tab=readme-ov-file)) according to CCN's requirements, and extract all necessary features.
 
 ### 2. Generate necessary features
 
