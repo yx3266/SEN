@@ -34,8 +34,8 @@ This repo and code are built based on the top of [CCN](https://github.com/S-Abde
 To generate SRS for textual evidence, run the following command under `data_preprocessing\`. Need to calculate for all splits.
 
 ```
-python precompute_entity.py --split test # perform named entity recognition
-python compute_srscore.py --split test # compute support-refutation score
+python precompute_entity.py --split test   # perform named entity recognition
+python compute_srscore.py --split test     # compute support-refutation score
 ```
 
 #### 2.2 The evidence clusters in Stance Extraction Network
