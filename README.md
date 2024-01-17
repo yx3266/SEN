@@ -80,7 +80,7 @@ To evaluate the trained model,  run the following command under `training_and_ev
 python train.py --mode evaluate --ner_ent srscore --ner_cap srscore --cap_cluster --img_cluster
 ```
 
-We have shared the trained models training logs, and detailed test results on the test set, which can be found in this [Google Drive link](https://drive.google.com/drive/folders/1-kmF4mm48Lpmsb8foq309I6aM_JHma_C?usp=drive_link).
+We have shared the trained models, training logs, and detailed test results on the test set, which can be found in this [Google Drive link](https://drive.google.com/drive/folders/1-kmF4mm48Lpmsb8foq309I6aM_JHma_C?usp=drive_link).
 
 
 
