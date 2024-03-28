@@ -62,8 +62,6 @@ To reproduce the best results reported in the paper, run the following command u
 python train.py --mode train --ner_ent srscore --ner_cap srscore --cap_cluster --img_cluster --epochs 60
 ```
 
-Although SEN is not used for textual evidence of entity type in the paper, it can be achieved by adding `--ent_cluster` to the command. In our testing, this brings an extremely small performance gain.
-
 The results in `Ablation Analysis` only require adjustments to the parameters of the command.
 
 * w/o SRS. Remove `--ner_ent srscore --ner_cap srscore`
